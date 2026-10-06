@@ -169,7 +169,7 @@ export default function App() {
     <>
       <Doodles />
       <div className="wrap">
-        <h1>Puia & Dolkar's photobooth</h1>
+        <h1>Puia&Dolkar's photobooth</h1>
         <p className="sub">for Zawngi ♡</p>
         {peer.status === 'failed' && (
           <p className="banner" role="alert">Connection lost. Refresh both pages and connect again.</p>
